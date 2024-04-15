@@ -1,0 +1,3 @@
+Gantt Chart : 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 3 3 3 3 
+Average Turn-Around Time :  14.250000 
+Average Waiting Time :  8.750000 
